@@ -66,3 +66,5 @@ function deleteLast() {
   displayValue = displayValue.length > 1 ? displayValue.slice(0, -1) : "0";
   updateDisplay();
 }
+
+//calc basica
