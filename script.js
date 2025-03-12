@@ -67,4 +67,4 @@ function deleteLast() {
   updateDisplay();
 }
 
-//calc basica static
+//calc basic static
